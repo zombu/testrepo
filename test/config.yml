@@ -1,0 +1,6 @@
+ucanaccess:
+  baselibpath: /home/zombu/prj/ucanaccess/
+
+db:
+  path: /home/zombu/c/transfer/Books2010.accdb
+  
